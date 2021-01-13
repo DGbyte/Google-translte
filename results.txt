@@ -1,0 +1,436 @@
+C:\Users\Elina\PycharmProjects\pythonProject1\venv\Scripts\python.exe C:/Users/Elina/PycharmProjects/pythonProject1/Google.py
+Recognized correctly
+or
+ଶାନ୍ତି 
+or
+Translated to appropriate language
+uz
+Tinchlik 
+uz
+Translated to appropriate language
+ug
+تىنچلىق 
+ug
+Translated to appropriate language
+uk
+Мир 
+ru
+Translated to incorrect language
+ur
+امن 
+ar
+Translated to incorrect language
+az
+Sülh 
+az
+Translated to appropriate language
+ig
+Udo 
+de
+Translated to incorrect language
+it
+Pace 
+en
+Translated to incorrect language
+id
+Perdamaian 
+id
+Translated to appropriate language
+is
+Friður 
+is
+Translated to appropriate language
+ga
+Síocháin 
+ga
+Translated to appropriate language
+sq
+Paqen 
+sq
+Translated to appropriate language
+am
+ሰላም 
+am
+Translated to appropriate language
+en
+Peace 
+en
+Translated to appropriate language
+et
+Rahu 
+et
+Translated to appropriate language
+eo
+Pacon 
+eo
+Translated to appropriate language
+af
+Vrede 
+nl
+Translated to incorrect language
+hy
+Խաղաղություն 
+hy
+Translated to appropriate language
+eu
+Bakea 
+eu
+Translated to appropriate language
+bg
+Спокойствие 
+bg
+Translated to appropriate language
+bs
+Mir 
+de
+Translated to incorrect language
+my
+ငြိမ်းချမ်းရေး 
+my
+Translated to appropriate language
+be
+Мір 
+be
+Translated to appropriate language
+bn
+শান্তি 
+bn
+Translated to appropriate language
+jw
+Tentrem 
+jw
+Translated to appropriate language
+ka
+მშვიდობა 
+ka
+Translated to appropriate language
+gu
+શાંતિ 
+gu
+Translated to appropriate language
+gl
+Paz 
+es
+Translated to incorrect language
+de
+Frieden 
+de
+Translated to appropriate language
+da
+Fred 
+en
+Translated to incorrect language
+ha
+Aminci 
+ha
+Translated to appropriate language
+haw
+Maluhia 
+haw
+Translated to appropriate language
+nl
+Vrede 
+nl
+Translated to appropriate language
+hu
+Béke 
+hu
+Translated to appropriate language
+hi
+शांति 
+hi
+Translated to appropriate language
+hmn
+Kev kaj siab lug 
+hmn
+Translated to appropriate language
+cy
+Heddwch 
+cy
+Translated to appropriate language
+vi
+Sự thanh bình 
+vi
+Translated to appropriate language
+zu
+Ukuthula 
+zu
+Translated to appropriate language
+km
+សន្តិភាព 
+km
+Translated to appropriate language
+tg
+Сулҳ 
+tg
+Translated to appropriate language
+tr
+Barış 
+tr
+Translated to appropriate language
+tk
+Parahatçylyk 
+tk
+Translated to appropriate language
+tt
+Тынычлык 
+tt
+Translated to appropriate language
+te
+శాంతి 
+te
+Translated to appropriate language
+ta
+சமாதானம் 
+ta
+Translated to appropriate language
+el
+Ειρήνη 
+el
+Translated to appropriate language
+yo
+Alafia 
+yo
+Translated to appropriate language
+yi
+שלום 
+iw
+Translated to incorrect language
+ja
+平和 
+ja
+Translated to appropriate language
+ku
+Aşîtî 
+ku
+Translated to appropriate language
+lo
+ຄວາມສະຫງົບສຸກ 
+lo
+Translated to appropriate language
+lb
+Fridden 
+lb
+Translated to appropriate language
+lv
+Miers 
+lv
+Translated to appropriate language
+la
+Pax 
+en
+Translated to incorrect language
+lt
+Ramybė 
+lt
+Translated to appropriate language
+mi
+Te rongomau 
+mi
+Translated to appropriate language
+mn
+Энх тайван 
+mn
+Translated to appropriate language
+ml
+സമാധാനം 
+ml
+Translated to appropriate language
+ms
+Kedamaian 
+id
+Translated to incorrect language
+mg
+fandriampahalemana 
+mg
+Translated to appropriate language
+mt
+Paċi 
+mt
+Translated to appropriate language
+mk
+Мир 
+ru
+Translated to incorrect language
+mr
+शांतता 
+mr
+Translated to appropriate language
+no
+Fred 
+en
+Translated to incorrect language
+ne
+शान्ति 
+ne
+Translated to appropriate language
+ceb
+Pakigdait 
+ceb
+Translated to appropriate language
+sw
+Amani 
+sw
+Translated to appropriate language
+so
+Nabadda 
+so
+Translated to appropriate language
+su
+Katengtreman 
+su
+Translated to appropriate language
+sd
+امن 
+ar
+Translated to incorrect language
+si
+සාම 
+si
+Translated to appropriate language
+zh-CN
+和平 
+zh-CN
+Translated to appropriate language
+sl
+Mir 
+de
+Translated to incorrect language
+sk
+Mier 
+sk
+Translated to appropriate language
+sm
+Filemu 
+sm
+Translated to appropriate language
+st
+Khotso 
+st
+Translated to appropriate language
+es
+Paz 
+es
+Translated to appropriate language
+gd
+Sìth 
+gd
+Translated to appropriate language
+sr
+Мир 
+ru
+Translated to incorrect language
+iw
+שלום 
+iw
+Translated to appropriate language
+ar
+سلام 
+fa
+Translated to incorrect language
+ps
+سوله 
+fa
+Translated to incorrect language
+pl
+Pokój 
+pl
+Translated to appropriate language
+pa
+ਸ਼ਾਂਤੀ 
+pa
+Translated to appropriate language
+pt
+Paz 
+es
+Translated to incorrect language
+tl
+Kapayapaan 
+tl
+Translated to appropriate language
+fi
+Rauha 
+fi
+Translated to appropriate language
+fy
+Frede 
+da
+Translated to incorrect language
+fa
+صلح 
+fa
+Translated to appropriate language
+ny
+Mtendere 
+ny
+Translated to appropriate language
+cs
+Mír 
+ga
+Translated to incorrect language
+fr
+Paix 
+fr
+Translated to appropriate language
+kn
+ಶಾಂತಿ 
+kn
+Translated to appropriate language
+xh
+Luxolo 
+xh
+Translated to appropriate language
+ko
+평화 
+ko
+Translated to appropriate language
+co
+Pace 
+en
+Translated to incorrect language
+kk
+Бейбітшілік 
+kk
+Translated to appropriate language
+ca
+Pau 
+pt
+Translated to incorrect language
+rw
+Amahoro 
+rw
+Translated to appropriate language
+ky
+Тынчтык 
+ky
+Translated to appropriate language
+hr
+Mir 
+de
+Translated to incorrect language
+ht
+Lapè 
+ht
+Translated to appropriate language
+ro
+Pace 
+en
+Translated to incorrect language
+ru
+Мир 
+ru
+Translated to appropriate language
+sv
+Fred 
+en
+Translated to incorrect language
+sn
+Rugare 
+sn
+Translated to appropriate language
+th
+สันติภาพ 
+th
+Translated to appropriate language
+
+Process finished with exit code 0
